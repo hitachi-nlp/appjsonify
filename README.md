@@ -182,7 +182,11 @@ Possible future work is as follows:
 ## Citation
 If you use `appjsonify` in your work, please cite the following.
 ```
-TBA
+@article{Yamaguchi2023appjsonify,
+  title={appjsonify: An Academic Paper PDF-to-JSON Conversion Toolkit},
+  author={Atsuki Yamaguchi and Terufumi Morishita},
+  year={2023}
+}
 ```
 
 ## License
