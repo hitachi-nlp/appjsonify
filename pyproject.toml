@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "appjsonify"
-version = "0.1.0"
+version = "0.1.1"
 description = "An academic paper PDF to JSON conversion toolkit."
-authors = ["Atsuki Yamaguchi <atsuki.yamaguchi.xn@hitachi.com>"]
+authors = ["Atsuki Yamaguchi <gucci.research@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
