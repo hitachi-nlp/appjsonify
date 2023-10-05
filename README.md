@@ -182,10 +182,13 @@ Possible future work is as follows:
 ## Citation
 If you use `appjsonify` in your work, please cite the following.
 ```
-@article{Yamaguchi2023appjsonify,
-  title={appjsonify: An Academic Paper PDF-to-JSON Conversion Toolkit},
-  author={Atsuki Yamaguchi and Terufumi Morishita},
-  year={2023}
+@article{yamaguchi2023appjsonify,
+      title={appjsonify: An Academic Paper PDF-to-JSON Conversion Toolkit}, 
+      author={Atsuki Yamaguchi and Terufumi Morishita},
+      year={2023},
+      eprint={2310.01206},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
